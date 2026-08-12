@@ -1,0 +1,12 @@
+# Ignorar arquivos de log
+log_erros.txt
+log_output.txt
+log_erros_final.txt
+*.log
+
+# Ignorar o relatório gerado (opcional, mas recomendado para não versionar lixo)
+relatorio.html
+relatorio_final.html
+
+# Pastas do sistema Python (arquivos temporários)
+__pycache__/
